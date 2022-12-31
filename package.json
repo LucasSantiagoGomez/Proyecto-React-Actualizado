@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.2",
+    "@mui/styled-engine-sc": "^5.11.0",
+    "firebase": "^9.15.0",
+    "react-router-dom": "^6.4.5",
+    "styled-components": "^5.3.6"
+  }
+}
